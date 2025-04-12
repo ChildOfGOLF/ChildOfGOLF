@@ -12,11 +12,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ChildOfGOLF&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChildOfGOLF&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ChildOfGOLF&limit=5&theme=holi&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ChildOfGOLF&icon=2&color=6)](https://visitcount.itsvg.in)
