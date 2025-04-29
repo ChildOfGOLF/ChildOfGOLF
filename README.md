@@ -1,6 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on: a WPF application in C# <br>👯 I’m looking to collaborate on: desktop applications, web development projects, or algorithms implementation in C++ and C#.<br>🌱 Currently learning web development<br>
-
+🔭 I’m currently working on: a Java application with Spring Framework  
+👯 I’m looking to collaborate on: backend development projects, desktop applications, or algorithms implementation in Java, C# and C++.  
+🌱 Currently learning advanced backend development  
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/sjfZNpCf) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/ChildGOLF) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28088285) 
